@@ -1,4 +1,4 @@
-<link href="readmeStyle.css" rel="stylesheet"></link>
+<img src="Style.svg">
 
 <div align="center">
 
