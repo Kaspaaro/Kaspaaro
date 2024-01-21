@@ -6,11 +6,14 @@
 
 <h3 align="center"> A passionate Software Engineer from finland </h3> &nbsp;
 
-- 🌱 I’m currently learning **Software Engineering in Metropolia UAS**
+- 🌱 I’m currently learning **Software Engineering in Metropolia UAS** 
 
-- 📄 Know about my experiences [https://kaspaaro.github.io/my-portfolio/](https://kaspaaro.github.io/my-portfolio/)
+- 📄 Know about my experiences: [https://kaspaaro.github.io/my-portfolio/](https://kaspaaro.github.io/my-portfolio/) 
 
 -  ⚡ Fun fact **I love Music**
+   <img src="AnimatedBlackCube.svg" align="right" width="40%" height="100%">
+&nbsp; 
+
 <details>
 <summary>
 <b>📫 &nbsp; How to reach me </b>
