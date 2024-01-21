@@ -1,3 +1,10 @@
+<img src="https://i.gifer.com/XZ5V.gif" class="sparkle" alt="sparkle">
+<h1 align="center">Hi 👋, I'm Kaspar</h1>
+<h3 align="center">A passionate Software Engineer from finland</h3>
+
+<p align="center">
+<img src="https://i.gifer.com/ZWdx.gif" alt="loading" class="loadBar">
+</p>
 <style>
   .sparkle {
     position: absolute;
@@ -24,13 +31,6 @@
     width: 50%;
   }
 </style>
-<img src="https://i.gifer.com/XZ5V.gif" class="sparkle" alt="sparkle">
-<h1 align="center">Hi 👋, I'm Kaspar</h1>
-<h3 align="center">A passionate Software Engineer from finland</h3>
-
-<p align="center">
-<img src="https://i.gifer.com/ZWdx.gif" alt="loading" class="loadBar">
-</p>
 
 - 🌱 I’m currently learning **Software Engineering in Metropolia UAS**
 
