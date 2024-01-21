@@ -11,13 +11,36 @@
 - 📄 Know about my experiences [https://kaspaaro.github.io/my-portfolio/](https://kaspaaro.github.io/my-portfolio/)
 
 -  ⚡ Fun fact **I love Music**
-
-<h3 align="left">Connect with me:</h3>
+<details>
+<summary>
+<b>📫 &nbsp; How to reach me </b>
+</summary>
+&nbsp;
 <div align="left">
-<a href="https://www.linkedin.com/in/kaspar-tullus-70485723a/"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaspar tullus" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaspar-tullus-70485723a/"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaspar tullus" height="30" width="40" /> <img src="pointing-finger-left.svg"> </a>
 </div>
+&nbsp;
+</details>
+&nbsp;
 
-<h3 align="left">Languages and Tools:</h3>
+<details>
+  <summary>
+<b> 🎯 &nbsp; 
+    My Github Stats
+    </b>
+    </summary>
+    <br/>
+    <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaspaaro&show_icons=true&hide_border=true&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaspaaro&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
+    </div>
+</details>
+&nbsp;
+<details>
+<summary><b>💻 &nbsp; Languages and Tools </b>
+
+</summary>
+
 &nbsp;
 <div align="left"> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>  &nbsp; 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>  &nbsp; 
@@ -53,10 +76,8 @@
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> &nbsp;
 </div>
+</details>
 
-&nbsp;&nbsp;&nbsp;<div align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaspaaro&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="kaspaaro" /></div>
-
-&nbsp;&nbsp;&nbsp;<div align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaspaaro&theme=dracula&hide_border=true" alt="kaspaaro" /></div>
 <div align="center">
 
 <p>Snake Eating My 2023 Commits</p>
