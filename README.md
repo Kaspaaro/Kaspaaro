@@ -17,7 +17,7 @@
 </summary>
 &nbsp;
 <div align="left">
-<a href="https://www.linkedin.com/in/kaspar-tullus-70485723a/"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaspar tullus" height="30" width="40" /> <img src="pointing-finger-left.svg"> </a>
+<a href="https://www.linkedin.com/in/kaspar-tullus-70485723a/"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaspar tullus" height="30" width="40" /> </a>
 </div>
 &nbsp;
 </details>
