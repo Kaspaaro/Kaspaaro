@@ -1,7 +1,4 @@
-<img src="    position: absolute;
-transform: rotate(180deg);
-opacity: 0.02;
-animation: sparkle 20s ease-in-out infinite;" >
+<img src="sparkles.gif" style="position: absolute; opacity: 0.02;">
 <h1 align="center">Hi 👋, I'm Kaspar</h1>
 <h3 align="center">A passionate Software Engineer from finland</h3>
 <p align="center">
