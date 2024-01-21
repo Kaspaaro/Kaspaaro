@@ -1,7 +1,7 @@
 <img src="    position: absolute;
 transform: rotate(180deg);
 opacity: 0.02;
-animation: sparkle 20s ease-in-out infinite;" class="sparkle" alt="sparkle">
+animation: sparkle 20s ease-in-out infinite;" >
 <h1 align="center">Hi 👋, I'm Kaspar</h1>
 <h3 align="center">A passionate Software Engineer from finland</h3>
 <p align="center">
