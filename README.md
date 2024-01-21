@@ -11,7 +11,10 @@
 - 📄 Know about my experiences: [https://kaspaaro.github.io/my-portfolio/](https://kaspaaro.github.io/my-portfolio/) 
 
 -  ⚡ Fun fact **I love Music**
-   <img src="AnimatedBlackCube.svg" align="right" width="40%" height="100%">
+&nbsp;
+
+  <img src="AnimatedBlackCube.svg" align="right" width="15%">
+
 &nbsp; 
 
 <details>
@@ -80,10 +83,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> &nbsp;
 </div>
 </details>
-
 <div align="center">
 
+&nbsp;
+
 <p>Snake Eating My 2023 Commits</p>
+
 
 [<img align="center" src="github-user-contribution.svg">](github-user-contribution.svg)
 
