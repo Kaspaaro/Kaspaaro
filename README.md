@@ -5,7 +5,7 @@
 </div>
 <span style="color:white;">
 <h3 align="center"> A passionate Software Engineer from finland</h3>
-
+</span>
 - 🌱 I’m currently learning **Software Engineering in Metropolia UAS**
 
 - 📄 Know about my experiences [https://kaspaaro.github.io/my-portfolio/](https://kaspaaro.github.io/my-portfolio/)
