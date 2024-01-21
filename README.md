@@ -3,8 +3,6 @@
 <img align="center" src="Hello.svg">
 
 </div>
-<style>H3{color:white;}</style>
-<style>H2{color:DarkOrange;}</style>
 
 <p align="center" style="font-size: 18px; color: #ffffff;">
   A passionate Software Engineer from finland
