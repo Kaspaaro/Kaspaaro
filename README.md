@@ -3,7 +3,8 @@
 <img align="center" src="Hello.svg">
 
 </div>
-<h3 align="center" style="color:white">A passionate Software Engineer from finland</h3>
+<span style="color:white;">
+<h3 align="center"> A passionate Software Engineer from finland</h3>
 
 - 🌱 I’m currently learning **Software Engineering in Metropolia UAS**
 
@@ -11,7 +12,7 @@
 
 -  ⚡ Fun fact **I love Music**
 
-<h3 align="left" style="color:white">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <div align="left">
 <a href="https://www.linkedin.com/in/kaspar-tullus-70485723a/"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaspar tullus" height="30" width="40" /></a>
 </div>
@@ -24,4 +25,4 @@
 
 &nbsp;&nbsp;&nbsp;<div align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaspaaro&theme=dracula&hide_border=true" alt="kaspaaro" /></div>
 
-<img src="Style.svg">
+
