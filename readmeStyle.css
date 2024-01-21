@@ -1,24 +1,10 @@
-.sparkle {
-    position: absolute;
-    transform: rotate(180deg);
-    opacity: 0.02;
-    animation: sparkle 20s ease-in-out infinite;
+* { margin: 0; padding: 0; }
+
+abbr,acronym,blockquote,code,dir,kbd,listing,plaintext,q,samp,tt,var,xmp { hyphens: none; }
+
+a{
+    text-decoration: none; !important;
 }
-@keyframes sparkle {
-    0% {
-        transform: rotate(180deg);
-    }
-    50% {
-        transform: rotate(360deg);
-    }
-    100% {
-        transform: rotate(180deg);
-    }
-}
-.img {
-    display: none;
-}
-.loadBar{
-    height: 200px;
-    width: 50%;
+h1{
+    color: white;
 }
