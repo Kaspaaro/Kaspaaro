@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img align="center" src="Hello.svg" width="700">](Hello.png)
+[<img align="center" src="Hello.svg" width="700">](Hello.svg)
 
 </div>
 
@@ -57,5 +57,10 @@
 &nbsp;&nbsp;&nbsp;<div align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaspaaro&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="kaspaaro" /></div>
 
 &nbsp;&nbsp;&nbsp;<div align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaspaaro&theme=dracula&hide_border=true" alt="kaspaaro" /></div>
+<div align="center">
 
+<p>Snake Eating My 2023 Commits</p>
 
+[<img align="center" src="github-user-contribution.svg">](github-user-contribution.svg)
+
+</div>
