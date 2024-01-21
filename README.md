@@ -1,5 +1,36 @@
+<style>
+  .sparkle {
+    position: absolute;
+    transform: rotate(180deg);
+    opacity: 0.02;
+    animation: sparkle 20s ease-in-out infinite;
+  }
+  @keyframes sparkle {
+    0% {
+      transform: rotate(180deg);
+    }
+    50% {
+      transform: rotate(360deg);
+    }
+    100% {
+      transform: rotate(180deg);
+    }
+  }
+  .img {
+    display: none;
+  }
+  .loadBar{
+    height: 200px;
+    width: 50%;
+  }
+</style>
+<img src="https://i.gifer.com/XZ5V.gif" class="sparkle" alt="sparkle">
 <h1 align="center">Hi 👋, I'm Kaspar</h1>
 <h3 align="center">A passionate Software Engineer from finland</h3>
+
+<p align="center">
+<img src="https://i.gifer.com/ZWdx.gif" alt="loading" class="loadBar">
+</p>
 
 - 🌱 I’m currently learning **Software Engineering in Metropolia UAS**
 
