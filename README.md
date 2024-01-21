@@ -1,5 +1,3 @@
-[<style>h1 { color: #3498db; } p { font-size: 16px; line-height: 2; } h3 {color: white; font-size: 20px;}</style>]()
-)
 <div align="center">
 
 [<img align="center" src="Hello.svg" width="700">](Hello.png)
