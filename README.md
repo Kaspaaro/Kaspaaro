@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kaspar</h1>
 <h3 align="center">A passionate Software Engineer from finland</h3>
 <p align="center">
-<img src="https://i.gifer.com/ZWdx.gif" alt="loading" style="height: 200px;
+<img src="load.gif" alt="loading" style="height: 200px;
     width: 50%;">
 </p>
 
