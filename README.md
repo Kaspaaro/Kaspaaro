@@ -1,4 +1,3 @@
-<img src="sparkles.gif" style="position: absolute opacity: 0.02">
 <h1 align="center">Hi 👋, I'm Kaspar</h1>
 <h3 align="center">A passionate Software Engineer from finland</h3>
 <p align="center">
