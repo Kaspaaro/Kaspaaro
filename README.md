@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Software Engineering in Metropolia UAS** 
  
 - 📄 Know about my experiences: [https://kaspaaro.github.io/my-portfolio/](https://kaspaaro.github.io/my-portfolio/) 
-
+- 🔊 My 3D Audio Visualizer! ( Make sure to give Autoplay audio permission on browser/website then refresh the page! ): [https://kaspaaro.github.io/React_Three.js_Audio_Visualizer/](https://kaspaaro.github.io/React_Three.js_Audio_Visualizer/)
 -  ⚡ Fun fact **I love Music**
 &nbsp;
 
