@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=Kaspaaro&style=flat-square&color=blue" alt=""/>
+
 [<img align="center" src="Hello.svg" width="700">](Hello.svg)
 
 </div>
