@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning **Software Engineering in Metropolia UAS** 
  
 - 📄 Know about my experiences: [https://kaspaaro.github.io/my-portfolio/](https://kaspaaro.github.io/my-portfolio/) 
-- 🔊 My 3D Audio Visualizer! (After premissions, you might need to force Refresh "Ctrl + F5") (MIGHT LAG ON SLOWER PC´s): [https://kaspaaro.github.io/React_Three.js_Audio_Visualizer/](https://kaspaaro.github.io/React_Three.js_Audio_Visualizer/)
 -  ⚡ Fun fact **I love Music**
 &nbsp;
 
