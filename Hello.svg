@@ -37,12 +37,16 @@
                 .column span {
                     display: block;
                     opacity: 0;
-                    animation: fadeIn 1s linear infinite;
+                    animation: fadeIn 4s linear infinite;
                 }
 
                 @keyframes fadeIn {
                     0% { opacity: 0; }
-                    100% { opacity: 1; }
+                    20% { opacity: 0; }
+                    40% { opacity: 1; }
+                    60% { opacity: 1; }
+                    80% { opacity: 0; }
+                    100% { opacity: 0; }
                 }
 
                 @keyframes fall {
@@ -85,3 +89,4 @@
         </div>
     </foreignObject>
 </svg>
+
