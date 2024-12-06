@@ -1,45 +1,86 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-                @keyframes hi  {
-                0% { transform: rotate( 0.0deg) }
-                10% { transform: rotate(14.0deg) }
-                20% { transform: rotate(-8.0deg) }
-                30% { transform: rotate(14.0deg) }
-                40% { transform: rotate(-4.0deg) }
-                50% { transform: rotate(10.0deg) }
-                60% { transform: rotate( 0.0deg) }
-                100% { transform: rotate( 0.0deg) }
+                /* Base styling for the SVG */
+                body {
+                    margin: 0;
+                    padding: 0;
+                    overflow: hidden;
+                    background-color: black;
                 }
                 .container {
-                background-color: rgba(0,0,0, 0);
-
-                width: 100%;
-                height: 300px;
-
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                color: #66b3ff;
-
-                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+                    position: relative;
+                    width: 100%;
+                    height: 100%;
+                    font-family: monospace;
+                    color: #00FF00;
+                    font-size: 20px;
+                    letter-spacing: 2px;
+                    text-align: center;
+                }
+                .matrix {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    display: block;
+                    overflow: hidden;
+                }
+                .column {
+                    position: absolute;
+                    top: 0;
+                    color: #00FF00;
+                    animation: fall 5s linear infinite;
+                }
+                .column span {
+                    display: block;
+                    opacity: 0;
+                    animation: fadeIn 1s linear infinite;
                 }
 
-                .hi {
-                animation: hi 1.5s linear -0.5s infinite;
-                display: inline-block;
-                transform-origin: 70% 70%;
+                @keyframes fadeIn {
+                    0% { opacity: 0; }
+                    100% { opacity: 1; }
                 }
 
-                @media (prefers-reduced-motion) {
-                .hi {
-                animation: none;
-                }
+                @keyframes fall {
+                    0% { top: -100%; }
+                    100% { top: 100%; }
                 }
             </style>
             <div class="container">
                 <h1>Hi there, my name is Kaspar <div class="hi">👋</div></h1>
+                
+                <!-- Matrix code effect -->
+                <div class="matrix">
+                    <div class="column" style="left: 10%; animation-duration: 5s;">
+                        <!-- Random falling characters -->
+                        <span>1</span><span>0</span><span>1</span><span>0</span><span>1</span><span>0</span><span>1</span><span>0</span>
+                    </div>
+                    <div class="column" style="left: 20%; animation-duration: 6s;">
+                        <span>1</span><span>0</span><span>1</span><span>1</span><span>0</span><span>1</span><span>1</span><span>1</span>
+                    </div>
+                    <div class="column" style="left: 30%; animation-duration: 7s;">
+                        <span>1</span><span>0</span><span>1</span><span>0</span><span>1</span><span>0</span><span>1</span><span>0</span>
+                    </div>
+                    <div class="column" style="left: 40%; animation-duration: 5s;">
+                        <span>0</span><span>1</span><span>1</span><span>0</span><span>1</span><span>1</span><span>1</span><span>0</span>
+                    </div>
+                    <div class="column" style="left: 50%; animation-duration: 6s;">
+                        <span>1</span><span>0</span><span>0</span><span>1</span><span>1</span><span>0</span><span>1</span><span>1</span>
+                    </div>
+                    <div class="column" style="left: 60%; animation-duration: 8s;">
+                        <span>1</span><span>1</span><span>0</span><span>1</span><span>1</span><span>0</span><span>1</span><span>1</span>
+                    </div>
+                    <div class="column" style="left: 70%; animation-duration: 9s;">
+                        <span>1</span><span>0</span><span>1</span><span>0</span><span>0</span><span>1</span><span>1</span><span>0</span>
+                    </div>
+                    <div class="column" style="left: 80%; animation-duration: 6s;">
+                        <span>0</span><span>1</span><span>0</span><span>1</span><span>1</span><span>0</span><span>1</span><span>0</span>
+                    </div>
+                </div>
             </div>
         </div>
     </foreignObject>
