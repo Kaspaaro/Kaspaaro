@@ -8,7 +8,7 @@
 ---
 
 ### 🌱 About Me
-- 🎓 Currently studying **Software Engineering** at Metropolia UAS (Last Year).
+- 🎓 Graduated as a Software Engineer (2025)
 - 🌐 Check out my [Portfolio](https://kaspaaro.github.io/my-portfolio/) for more about my work!
 ---
 
